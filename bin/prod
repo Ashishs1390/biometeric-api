@@ -1,1 +1,1 @@
-require('./../dist/icefire')
+require('./../dist/icefire');
