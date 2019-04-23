@@ -1,1 +1,1 @@
-web: npm run build && node bin/prod
+web: npm run-script production
