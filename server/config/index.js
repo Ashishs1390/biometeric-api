@@ -15,7 +15,7 @@ switch (env){
         envConfig = require('./dev').config;
         break;
     default:
-        envConfig = require('./dev').config;
+        envConfig = require('./prod').config;
 }
 
 
