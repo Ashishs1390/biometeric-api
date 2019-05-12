@@ -1,3 +1,3 @@
 export const config ={
-    dbUrl: `mongodb://localhost/nodeblog`
+    dbUrl: `mongodb://admin:admin123@ds261155.mlab.com:61155/nodeblog`
 }
